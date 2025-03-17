@@ -1,1 +1,0 @@
-# anti-gorilla-tag-extension
